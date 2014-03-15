@@ -1,8 +1,18 @@
 {
-	"folders":
-	[
-		{
-			"path": "/Users/novickova/todoapp/public/components/zepto-autosize"
-		}
-	]
+    "folders":
+    [
+        {
+            "folder_exclude_patterns":
+            [
+                ".tmp",
+                "node_modules",
+                "bower_components",
+                "components",
+                "dist"
+            ],
+            "path": "./"
+        }
+    ],
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true
 }
